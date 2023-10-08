@@ -1,0 +1,5 @@
+000002, Lily, 15/03/2022, 45.0, Potted Plants
+000004, Orchid, 05/02/2022, 60.0, Potted Plants
+000001, Rose, 10/01/2022, 50.0, Cut Flowers
+000005, Tulip, 01/05/2022, 40.0, Cut Flowers
+000003, Sunflower, 20/04/2022, 35.0, Cut Flowers
